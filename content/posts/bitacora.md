@@ -1,6 +1,6 @@
 ---
 title: "bitacora del capitan"
-date: 2022-04-022
+date: 2022-22-04
 description: 'descripcion de todo lo que realizo'
 ---
 el dia de hoy pretendo iniciar con la semana uno y por que no acabarla pretendo como dice la instrucion ponerlo en mi computadora  
