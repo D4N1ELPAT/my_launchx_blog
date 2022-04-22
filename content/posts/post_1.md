@@ -7,5 +7,5 @@ description: 'Aqui pondre lo que he aprendido '
 2 github  
 3 crear un frork  
 4 crear un repo  
-5 hacer una contrubucion a un proyecto
+5 hacer una contrubucion a un proyecto  
 6 enviar mis cambios desde mi computadora a mi github
