@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://d4n1elpat.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>bitacora del capitan</title>
+      <link>https://d4n1elpat.github.io/my_launchx_blog/posts/bitacora/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://d4n1elpat.github.io/my_launchx_blog/posts/bitacora/</guid>
+      <description>El dia de hoy pretendo iniciar con la semana uno y por que no, acabarla pretendo como dice la instrucion ponerlo en mi computadora y usar git para enviar los cambios a git hub y asi aprobechar practicar al mismo tiempo aun no me decido si usare el vscode o la terminal.. 22/04/22 1:33pm</description>
+    </item>
+    
+    <item>
       <title>Mi ruta de aprendizaje</title>
       <link>https://d4n1elpat.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
@@ -32,16 +41,6 @@ Mis espectativas con lunch x
 -Aprender sobre la creacion de los cidigos y entender bien como se usan
 -Entender como funciona todo este mundo del desarroyo de software
 -Trabajar en un futuro en el desarrollo y asi poder decir que soy developer</description>
-    </item>
-    
-    <item>
-      <title>bitacora del capitan</title>
-      <link>https://d4n1elpat.github.io/my_launchx_blog/posts/bitacora/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://d4n1elpat.github.io/my_launchx_blog/posts/bitacora/</guid>
-      <description>el dia de hoy pretendo iniciar con la semana uno y por que no acabarla pretendo como dice la instrucion ponerlo en mi computadora
-y usar git para enviar los cambios a git hub y asi aprobechar practicar al mismo tiempo aun no me decido si usare el vscode o la terminal..</description>
     </item>
     
   </channel>
