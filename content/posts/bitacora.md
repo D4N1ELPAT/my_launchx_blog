@@ -9,9 +9,9 @@ El dia de hoy pretendo iniciar con la semana uno y por que no, acabarla pretendo
 Aun no entiendo bien muchas cosas pero pude terminar las tareas de las semana 1 para ello me apoye de muchos links para diversas cosas como por ejemplo:  
 - Para aprender a usar mi terminal en windous use  
 [usar cd y cd.. y otros](https://es.wikihow.com/crear-y-eliminar-archivos-o-carpetas-desde-el-int%C3%A9rprete-de-comandos-de-Windows)  
-- para saber como salirme de la ejecucion de node use  
+- Para saber como salirme de la ejecucion de node use  
 [.exit](https://codenostra.com/es/cmo-salir-en-nodejs.html)
--Casi me olvido de como subir los cambios a git hub pero me apoye este  
+- Casi me olvido de como subir los cambios a git hub pero me apoye este  
 [guia de git](https://rogerdudler.github.io/git-guide/index.es.html)
 - Final mente para poder escribir este markdown me apoye con la sintaxis de aqui  
 [MKDW](https://markdown.es/sintaxis-markdown/)
